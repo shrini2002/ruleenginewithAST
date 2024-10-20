@@ -5,24 +5,24 @@ Hosted link:https://github.com/shrini2002/ruleenginewithAST/
 
 This application is a rule engine that determines user eligibility based on attributes such as age, department, salary, and experience. It uses an Abstract Syntax Tree (AST) to represent and manage conditional rules, allowing for dynamic rule creation, combination, and evaluation.
 
-<img width="943" alt="image" src="https://github.com/user-attachments/assets/78f6bdca-68aa-4818-a56f-5a50c2023b7f">
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/d07c84ed-8974-4615-9999-074b3a0edce0">
 
 
 ## Features
 
 - **Create Rules:** Define rules using a string format that gets converted into an AST.
   
-  <img width="377" alt="image" src="https://github.com/user-attachments/assets/0ffe41aa-7f9c-4fe1-9230-2091bbb16632">
+  <img width="377" alt="image" src="https://github.com/user-attachments/assets/11d9488c-becf-4382-a7fe-069407463ad6">
 
 
 - **Combine Rules:** Combine multiple rules into a single AST for more complex evaluations.
   
-  <img width="376" alt="image" src="https://github.com/user-attachments/assets/63145818-6936-4763-8fbe-db65f264e4ff">
+  <img width="376" alt="image" src="https://github.com/user-attachments/assets/dc2802bb-fc3c-4d34-b077-cbf7f5d54288">
 
   
 - **Evaluate Rules:** Check if the given data meets the criteria defined by the AST.
   
-  <img width="375" alt="image" src="https://github.com/user-attachments/assets/041e664f-1711-4bbb-b107-50d5fb7909f4">
+  <img width="375" alt="image" src="https://github.com/user-attachments/assets/370d4091-6c4c-47b9-9455-f696f30e08b5">
 
 
 - **Tree Visualization:** Define or Combine Rule would should show Tree Representation.
